@@ -26,6 +26,10 @@
 
 **[hello rails back end]** is an app that shows you a random greeting on page refresh.
 
+## Link to front end repo
+
+- [] [React Front End](https://github.com/martinkarugaba/hello_react_front_end)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 <details>
